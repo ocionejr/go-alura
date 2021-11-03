@@ -1,0 +1,9 @@
+03/11/2021 14:55:42 - https://random-status-code.herokuapp.com/- online: true
+03/11/2021 14:55:42 - https://www.alura.com.br/- online: true
+03/11/2021 14:55:43 - https://www.caelum.com.br- online: true
+03/11/2021 14:55:49 - https://random-status-code.herokuapp.com/- online: true
+03/11/2021 14:55:49 - https://www.alura.com.br/- online: true
+03/11/2021 14:55:49 - https://www.caelum.com.br- online: true
+03/11/2021 14:55:55 - https://random-status-code.herokuapp.com/- online: false
+03/11/2021 14:55:55 - https://www.alura.com.br/- online: true
+03/11/2021 14:55:55 - https://www.caelum.com.br- online: true
